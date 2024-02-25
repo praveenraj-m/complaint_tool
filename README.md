@@ -5,7 +5,8 @@ The Complaint Management System allows any user to submit complaints and track t
 
 ## Project Details
 1. **Roles & Responsibility:**
-   1.1 **Admin**
+
+    1.1 **Admin**
    - Login: Access to the admin dashboard.
    - View Complaints: View all complaints submitted by users.
    - Manage Complaints: Change the status of complaints (Pending, Accepted, Rejected).
