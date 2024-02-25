@@ -1,4 +1,21 @@
-"# Complaint-tool" 
+# Complaint-tool
+
+## Project Summary
+The Complaint Management System allows any user to submit complaints and track their progress. The admin can manage complaints by reviewing and updating their status.
+
+## Project Details
+1. **Roles & Responsibility:**
+   1.1 **Admin**
+   - Login: Access to the admin dashboard.
+   - View Complaints: View all complaints submitted by users.
+   - Manage Complaints: Change the status of complaints (Pending, Accepted, Rejected).
+   
+   1.2 **User**
+   - Visit: Visit the website.
+   - Create Complaints: Submit a complaint by providing their Name, Email, Mobile Number, and Detailed Description.
+   - Track the Complaint: Track the status of their complaint using the unique Complaint ID.
+
+## Web page looks like the below attached images 
 
 ![1](https://github.com/praveenraj-m/complaint_tool/assets/157500133/2348fdff-0d26-4ecf-9001-1af4b69dba00)
 ![2](https://github.com/praveenraj-m/complaint_tool/assets/157500133/b50bc7bf-4f5f-48b9-b4aa-5875a07090c1)
